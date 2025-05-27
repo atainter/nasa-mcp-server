@@ -7,3 +7,4 @@ npm run build
 npm start
 ```
 
+Watch the video [here](https://youtu.be/gKkTpVeqdcY)
